@@ -6,9 +6,9 @@ Ariawase is an open source VBA library.
 
 オリジナルの`Ariawase`に若干の修正を行ってます
 
-fixA
+[fixA](https://github.com/callmekohei/ariawase/pull/1)
 
-fixArrSlice
+[fixArrSlice](https://github.com/callmekohei/ariawase/pull/2)
 
 [koffeeVBA](https://github.com/callmekohei/koffeeVBA)はこの`Ariawase`をもとにしてます
 
