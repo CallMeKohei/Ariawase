@@ -1,16 +1,16 @@
 ﻿# What is Ariawase?
 
-[![Join the chat at https://gitter.im/vbaidiot/ariawase](https://badges.gitter.im/vbaidiot/ariawase.svg)](https://gitter.im/vbaidiot/ariawase?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Ariawase is an open source VBA library.
 
-## Quick Start
+## this repository...
 
-Run `build.bat`, you'll get office macro-enabled file in bin directory.
+オリジナルの`Ariawase`に若干の修正を行ってます
 
-## Articles
+fixA
 
-Coming soon! Please check back.
+fixArrSlice
+
+[koffeeVBA](https://github.com/callmekohei/koffeeVBA)はこの`Ariawase`をもとにしてます
 
 ## License
 
