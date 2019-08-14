@@ -4,9 +4,11 @@
 
 修正箇所
 
-[fixA](https://github.com/callmekohei/ariawase/pull/1)
+1. [fixA](https://github.com/callmekohei/ariawase/pull/1)
 
-[fixArrSlice](https://github.com/callmekohei/ariawase/pull/2)
+2. [fixArrSlice](https://github.com/callmekohei/ariawase/pull/2)
+
+3. 'ArrayEx'における要素ゼロの場合の処理の変更
 
 ## With koffeeVBA
 
