@@ -8,7 +8,7 @@
 
 2. [fixArrSlice](https://github.com/callmekohei/ariawase/pull/2)
 
-3. 'ArrayEx'における要素ゼロの場合の処理の変更
+3. `ArrayEx`における要素ゼロの場合の処理の変更
 
 ## With koffeeVBA
 
