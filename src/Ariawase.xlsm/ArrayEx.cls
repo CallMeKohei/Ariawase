@@ -50,7 +50,7 @@ Public Function ToArray() As Variant
     If xIndex > -1 Then
         ReDim Preserve arr(xIndex)
     Else
-        ToArray = Array()
+        ToArray = Empty
         GoTo Ending
     End If
     ToArray = arr
